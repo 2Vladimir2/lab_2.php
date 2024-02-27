@@ -15,3 +15,7 @@
 
 ## **Задания**
 *Задание 1.*
+*1.Создайте файл index.php, который содержит следующий код:*
+<img width="407" alt="image" src="https://github.com/2Vladimir2/lab_2.php/assets/159247721/a40a7ccc-85d1-49da-a1b7-a797c47c5ce9">
+
+
